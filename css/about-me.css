@@ -1,0 +1,16 @@
+.about-me {
+    display: flex;
+    align-items: center;
+}
+.about-me__text h2 {
+    font-size: 40px;
+}
+.about-me__img {}
+@media (max-width: 769px) {
+    .about-me {
+        flex-direction: column-reverse;
+    }
+    .about-me__text {
+        text-align: center;
+    }
+}

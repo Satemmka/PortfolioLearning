@@ -1,0 +1,14 @@
+html {
+    font-size:var(--font-size);
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: var(--background-color);
+    color: var(--white);
+}
+
+* mark {
+    background-color: transparent;
+    color: var(--text-highlight);
+}

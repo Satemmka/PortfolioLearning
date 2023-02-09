@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&family=Nanum+Gothic&family=Playfair+Display:ital@1&display=swap');
+@import "./variables.css";
+@import "./reset.css";
+@import "./common.css";
+@import "./header.css";
+@import "./main.css";
+@import "./about-me.css";
+
+
+.container {
+    max-width: 1142px;
+    padding: 0 40px;
+    margin: 0 auto;
+}
+/*равносильно  padding: 10px 20px 30px 40px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px; */
+
+   
